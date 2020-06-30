@@ -9,3 +9,8 @@ However, it is a full desaster.
 * very, very old
 * sensible and wise
 * tired
+
+## Character quote
+
+> Perhaps I'm old and tired, but I think that the chances of finding out what's actually going on are so absurdly remote that the only thing to do is to say, "Hang the sense of it," and keep yourself busy.
+> I'd much rather be happy than right any day.
